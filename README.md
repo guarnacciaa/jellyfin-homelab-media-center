@@ -1,4 +1,4 @@
-# Homelab Media Center
+# Jellyfin Homelab Media Center
 
 Hi! This is my new take at implementing a fully automated media center solution based on the *Arr family (https://wiki.servarr.com/) after my first attempt based on Emby (https://github.com/guarnacciaa/emby-homelab-media-center). \
 Same as before, the aim of the implementation is to have all the applications running behind Gluetun connected to a VPN service.
