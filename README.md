@@ -196,4 +196,4 @@ services:
 
 ```
 
-The Gluetun service section provides the syntax to configure Private Internet Access. For more information you can check the official Gluetun documentation at: https://github.com/qdm12/gluetun-wiki/blob/main/setup/providers/private-internet-access.md\
+The Gluetun service section provides the syntax to configure Private Internet Access. For more information you can check the official Gluetun documentation at: https://github.com/qdm12/gluetun-wiki/blob/main/setup/providers/private-internet-access.md
