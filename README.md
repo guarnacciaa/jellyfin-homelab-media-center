@@ -54,8 +54,6 @@ services:
       - 8191:8191
       # bazarr ports
       - 6767:6767
-      # readarr
-      - 8787:8787
     restart: always
 
   radarr:
